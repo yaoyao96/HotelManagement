@@ -1,0 +1,7 @@
+C:\Users\jyyao\Desktop\Telepathy Assignment\HotelManagement\bin\Debug\HotelManagement.exe.config
+C:\Users\jyyao\Desktop\Telepathy Assignment\HotelManagement\bin\Debug\HotelManagement.exe
+C:\Users\jyyao\Desktop\Telepathy Assignment\HotelManagement\bin\Debug\HotelManagement.pdb
+C:\Users\jyyao\Desktop\Telepathy Assignment\HotelManagement\obj\Debug\HotelManagement.csprojAssemblyReference.cache
+C:\Users\jyyao\Desktop\Telepathy Assignment\HotelManagement\obj\Debug\HotelManagement.csproj.CoreCompileInputs.cache
+C:\Users\jyyao\Desktop\Telepathy Assignment\HotelManagement\obj\Debug\HotelManagement.exe
+C:\Users\jyyao\Desktop\Telepathy Assignment\HotelManagement\obj\Debug\HotelManagement.pdb
